@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @GHOSteD141<br>👀 I’m interested in ...projects on visual libraries<br>🌱 I’m currently learning ...open cv<br>💞️ I’m looking to collaborate on ...an YOLO based project<br>📫 How to reach me ...just whatsapp me on 9861227511,or email-knightsnsb@gmail.com<br>😄 Pronouns: ...he/him<br>⚡ Fun fact: ...i am kinda odd person so yep good luck
+👋 Hi, I’m @GHOSteD141<br>👀 I’m interested in ...projects on visual libraries<br>🌱 I’m currently learning ...AI angent integration<br>💞️ I’m looking to collaborate on ...an AI Agent based project<br>📫 How to reach me ...just email-knightsnsb@gmail.com<br>😄 Pronouns: ...he/him<br>⚡ Fun fact: ...i am kinda odd person so yep good luck
 
 
 ## 🌐 Socials:
